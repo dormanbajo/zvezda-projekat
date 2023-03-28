@@ -1,0 +1,230 @@
+
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.prvi-header {
+  background-color: rgb(209, 19, 19);
+  
+}
+
+.drugi-meni {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size:25px;
+}
+
+.drugi-meni li {
+  display: inline-block;
+  margin-left: 30px;
+  background-color: rgb(247, 74, 74);
+}
+
+.drugi-meni li a {
+  color: rgb(15, 15, 15);
+  text-transform: uppercase;
+  font-style: normal;
+  font-family: cursive;
+  text-decoration: none;
+  
+}
+
+.nesto {
+  font-family: sans-serif;
+  font-size: xx-large;
+  font-style: normal;
+}
+
+.glavni-meni {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size:25px;
+}
+
+.pre-header .glavni-meni li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.pre-header .glavni-meni li a {
+  color: black;
+  text-transform: uppercase;
+  font-family: cursive;
+  font-style: normal;
+}
+.pre-header {
+  background-color: azure;
+  height: 30px;
+}
+
+.sekcija h2 {
+  color: #000000;
+  font-family: cursive;
+  font-style: normal;
+  text-transform: uppercase;
+}
+
+.sekcija p {
+  color: #000000;
+  font-family: cursive;
+  font-style: normal;
+}
+.sekcija {
+  text-orientation: sideways-right;
+}
+
+.ceo-projekat {
+  background: linear-gradient(to right, #ff1f1f, #faf2f2);
+}
+.galerija {
+  background: linear-gradient(to right, #ff1f1f, #faf2f2);
+}
+
+.sekcija {
+  font-family: cursive;
+  font-style: normal;
+}
+.istoriija {
+  font-family: cursive;
+  font-style: normal;
+}
+.istoriija {
+  background: linear-gradient(to right, #ff1f1f, #faf2f2);
+}
+
+.rezultatii-bajo {
+  background: linear-gradient(to right, #ff1f1f, #faf2f2);
+}
+
+.sop-cz {
+  background-color: #ff1f1f;
+  height: 35px;
+}
+.sop-cz2 {
+  background-color: azure;
+  height: 35px;
+}
+.sop-zvezdee {
+  background: linear-gradient(to right, #ff1f1f, #faf2f2);
+  font-family: cursive;
+  font-style: normal;
+}
+
+.stadion-mara {
+  background: linear-gradient(to right, #ff1f1f, #faf2f2);
+}
+
+header {
+  margin-bottom: 50px;
+}
+
+#derbi {
+  display: inline;
+  float: left;
+}
+
+#logo {
+    margin-left: 0px;
+    width: 100px;
+}
+
+.drugi-meni {
+  font-size:25px;
+}
+.nesto {
+ margin-left:1000px;
+ font-size: 50px;
+}
+
+#dres {
+  display: inline;
+  float: left;
+ 
+}
+
+#ostalo {
+  margin-top:350px;
+}
+
+#duksevi {
+  background: linear-gradient(to right, #ff1f1f, #faf2f2);
+}
+#kape {
+  background: linear-gradient(to right, #ff1f1f, #faf2f2);
+}
+#trenerke {
+  background: linear-gradient(to right, #ff1f1f, #faf2f2);
+}
+
+#dresevi {
+  background: linear-gradient(to right, #ff1f1f, #faf2f2);
+}
+
+#kacketi {
+  background: linear-gradient(to right, #ff1f1f, #faf2f2);
+}
+
+#Drustvene-mreze{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  padding: 0px 20px;
+  text-decoration: none;
+  margin-bottom: 0;
+}
+
+#Drustvene-mreze li{
+  display: inline;
+}
+#fejsbuk {
+  margin-left: 50px;
+}
+
+#twiter {
+  margin-left:60px;
+}
+
+header {
+  height:250px;
+}
+
+#dres {
+  margin-top: 100px;
+  
+}
+#dres h2 {
+  padding-top:200px;
+}
+
+#container-2 h2 {
+  padding-top:70px;
+}
+#pozadina {
+  background: linear-gradient(to right, #ff1f1f, #faf2f2);
+  font-size:40px;
+  font-weight: bold;
+}
+
+#generalni  {
+  font-weight:bold;
+  display:inline;
+  float:left;
+  
+}
+
+#sponzori {
+  background: linear-gradient(to right, #ff1f1f, #faf2f2);
+
+}
+
+#gazprom {
+  display: inline;
+  float: left;
+}
+
+
+
